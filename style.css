@@ -65,7 +65,7 @@
 .bg-circles .circle-2 {
   height: 150px;
   width: 150px;
-  background-color: #cc2b5e;
+  background-color: red;
   left: 29%;
   top: 60%;
   opacity: 0.4;
@@ -76,7 +76,7 @@
 .bg-circles .circle-3 {
   height: 150px;
   width: 150px;
-  background-color: #57bacd;
+  background-color: #ff2222;
   right: 28%;
   top: 15%;
   opacity: 0.6;
@@ -87,7 +87,7 @@
 .bg-circles .circle-4 {
   height: 80px;
   width: 80px;
-  background-color: red;
+  background-color: #cc2b5e;
   right: 10%;
   top: 80%;
   opacity: 0.6;
